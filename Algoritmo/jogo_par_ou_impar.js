@@ -17,4 +17,4 @@ if(avaliacao==escolha){
 }
 else{
     console.log(`voce escolheu ${numero}. o computador escolheu ${maquina}. ou seja, ${numero} + ${maquina}=${maquina+numero}. voce perdeu`)
-} 
+}   
